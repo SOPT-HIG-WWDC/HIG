@@ -19,3 +19,10 @@
 
 
 <br/>
+
+### 1주차
+[HIG - Buttons](https://lsj8706.tistory.com/23)
+
+[HIG - Tab bars](https://github.com/SOPT-HIG-WWDC/HIG/issues/2)
+
+[HIG - List and tables](https://github.com/SOPT-HIG-WWDC/HIG/issues/1)
