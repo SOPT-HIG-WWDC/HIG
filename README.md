@@ -26,3 +26,5 @@
 [HIG - Tab bars](https://github.com/SOPT-HIG-WWDC/HIG/issues/2)
 
 [HIG - List and tables](https://github.com/SOPT-HIG-WWDC/HIG/issues/1)
+
+[HIG - Navigation Bar](https://preyhong.tistory.com/2)
