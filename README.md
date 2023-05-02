@@ -28,3 +28,21 @@
 [HIG - List and tables](https://github.com/SOPT-HIG-WWDC/HIG/issues/1)
 
 [HIG - Navigation Bar](https://preyhong.tistory.com/2)
+
+### 2주차
+[HIG - Text fields](https://lsj8706.tistory.com/24)
+
+[HIG - Alerts](https://github.com/SOPT-HIG-WWDC/HIG/issues/6)
+
+[HIG - Text views](https://github.com/SOPT-HIG-WWDC/HIG/issues/7)
+
+[HIG - Collections](https://preyhong.tistory.com/4)
+
+### 3주차
+[HIG - Onscreen Keyboards](https://lsj8706.tistory.com/26)
+
+[HIG - Page Controls](https://github.com/SOPT-HIG-WWDC/HIG/issues/10)
+
+[HIG - Segmented controls](https://github.com/SOPT-HIG-WWDC/HIG/issues/11)
+
+[HIG - Action Sheets](https://velog.io/@lms7802/HIG-Action-Sheets)
