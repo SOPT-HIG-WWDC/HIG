@@ -46,3 +46,24 @@
 [HIG - Segmented controls](https://github.com/SOPT-HIG-WWDC/HIG/issues/11)
 
 [HIG - Action Sheets](https://velog.io/@lms7802/HIG-Action-Sheets)
+
+### 4주차
+[HIG - Scroll views](https://lsj8706.tistory.com/27)
+
+[HIG - Popover](https://github.com/SOPT-HIG-WWDC/HIG/issues/14)
+
+[HIG - Progress indicators](https://github.com/SOPT-HIG-WWDC/HIG/issues/15)
+
+### 5주차
+[HIG - Toggles](https://lsj8706.tistory.com/28)
+
+[HIG - Status bars](https://github.com/SOPT-HIG-WWDC/HIG/issues/17)
+
+[HIG - Steppers](https://github.com/SOPT-HIG-WWDC/HIG/issues/18)
+
+[HIG - Search fields](https://github.com/SOPT-HIG-WWDC/HIG/issues/19)
+
+### 6주차
+[HIG - Activity views](https://github.com/SOPT-HIG-WWDC/HIG/issues/20)
+
+[HIG - Labels](https://lsj8706.tistory.com/30)
