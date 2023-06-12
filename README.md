@@ -67,3 +67,10 @@
 [HIG - Activity views](https://github.com/SOPT-HIG-WWDC/HIG/issues/20)
 
 [HIG - Labels](https://lsj8706.tistory.com/30)
+
+[HIG - Boxes](https://github.com/SOPT-HIG-WWDC/HIG/issues/22)
+
+### 7주차
+[HIG - WebView](https://github.com/SOPT-HIG-WWDC/HIG/issues/23)
+
+[HIG - Onboarding](https://github.com/SOPT-HIG-WWDC/HIG/issues/24)
